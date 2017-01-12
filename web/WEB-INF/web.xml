@@ -15,7 +15,6 @@
         <url-pattern>/bracketbird</url-pattern>
     </servlet-mapping>
 
-    <!-- Default page to serve -->
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
     </welcome-file-list>
